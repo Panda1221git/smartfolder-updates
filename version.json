@@ -1,1 +1,6 @@
-{"version": "1.0.6", "url": "https://github.com/Panda1221git/smartfolder-updates/releases/latest", "download": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.6/SmartFolder-Setup-1.0.6.exe", "notes": "Ordner Kasse, PayPal-Auszüge, Updates zuverlässiger"}
+{
+  "version": "1.0.7",
+  "url": "https://github.com/Panda1221git/smartfolder-updates/releases/tag/v1.0.7",
+  "download": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.7/SmartFolder-Setup-1.0.7.exe",
+  "notes": "Bessere Belegerkennung, weniger „Zu prüfen“, Rechnung schreiben, Kassenbericht im Ordner Kasse."
+}
