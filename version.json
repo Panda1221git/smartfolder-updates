@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://smart-folder.de",
-  "download": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.9/SmartFolder-Setup-1.0.9.exe",
-  "download_mac": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.9/SmartFolder-1.0.9.dmg",
-  "notes": "Lizenz-Pakete, automatische Verlängerung, Eingangsordner, stabiler"
+  "download": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.10/SmartFolder-Setup-1.0.10.exe",
+  "download_mac": "https://github.com/Panda1221git/smartfolder-updates/releases/download/v1.0.10/SmartFolder-1.0.10.dmg",
+  "notes": "Archiv je Unternehmen (Monat/Quartal), Erste Schritte, klarere Meldungen"
 }
